@@ -3,4 +3,4 @@ alamat: Cidaun
 Jurusan: Mi
 PUB angkatan: 16
 deskripsi: saya suak makan
-asal daerah: cianjur selatan
+asal daerah: cianjur selatan 1
