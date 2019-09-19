@@ -1,3 +1,4 @@
 Nama : Iyan Sanjaya
 alamat: Cidaun
 Jurusan: Mi
+PUB angkatan: 16
