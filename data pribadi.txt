@@ -2,5 +2,5 @@ Nama : Iyan Sanjaya
 alamat: Cidaun
 Jurusan: Mi
 PUB angkatan: 16
-deskripsi:
-asal daerah:
+deskripsi: saya suak makan
+asal daerah: cianjur selatan
